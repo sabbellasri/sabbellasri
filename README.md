@@ -11,12 +11,7 @@ Strong focus on AI/ML, data pipelines, and automation.
 Experienced in designing production-ready solutions.
 Passionate about open-source and impactful tech.
 Always learning, building, and collaborating 🚀
-<iframe
-  src="https://github.com/users/sabbellasri/contributions"
-  width="100%"
-  height="200"
-  frameborder="0">
-</iframe>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbellasri&theme=github)
 <!--
 **sabbellasri/sabbellasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
