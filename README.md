@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m Sri Sabbella (@sabbellasri).
-I’m a Full-Stack Developer, AI Specialist, and Data Engineer.
+I’m a AI Specialist and Data Engineer.
 Currently building the Film Unite LLC platform and AI framework, voluntarily contributing to its success.
 Active in the @Film-Product-Placement GitHub organization.
 check the website at https://reelroots.ai/
@@ -11,6 +11,10 @@ Strong focus on AI/ML, data pipelines, and automation.
 Experienced in designing production-ready solutions.
 Passionate about open-source and impactful tech.
 Always learning, building, and collaborating 🚀
+## 📬 Contact Me
+
+- 📧 Email: sabbellasri@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/sabbellasri
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbellasri&theme=github)
 <!--
 **sabbellasri/sabbellasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
